@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import BaseInput from '@/components/base/Input';
-import BaseSelect from '@/components/base/select';
-import BaseButton from '@/components/base/button';
+import BaseSelect from '@/components/base/Select';
+import BaseButton from '@/components/base/Button';
 export const metadata: Metadata = {
   title: 'Free-Market',
   description: '프리마켓에 오신걸 환영합니다.',
